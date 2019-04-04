@@ -1,3 +1,3 @@
 ## Article_Generation
 
-* Developed the sequence model pipeline that involves character-level LSTM for text generation.
+*  Sequence model pipeline that involves character-level LSTM for text generation from user-input keywords.
